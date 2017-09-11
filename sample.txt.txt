@@ -1,0 +1,7 @@
+Install JDK
+	- Set JAVA_HOME and PATH (bin -folder)
+	   https://www.java.com/en/download/help/path.xml
+
+	Command:
+		Java
+		Javac
